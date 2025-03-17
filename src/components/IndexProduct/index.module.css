@@ -1,0 +1,13 @@
+.flexDistance {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.flexSearch{
+    gap: 30px;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
